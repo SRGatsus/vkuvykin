@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
-file_path = './АВТ_2.xlsx'
+file_path = 'АВТ_2.xlsx'
 count_list = 12
 petroleum_raw_materials=[]
 light_raw_materials=[]

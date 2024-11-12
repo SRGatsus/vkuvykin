@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-file_path = './АВТ_2.xlsx'
+file_path = 'АВТ_2.xlsx'
 count_list = 12
 final_raw_materials_for_devices = []
 final_output_for_devices = []

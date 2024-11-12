@@ -27,6 +27,6 @@ print("Статистические характеристики данных:")
 print(df.describe())
 
 # Шаг 6: Экспорт и сохранение данных в Excel
-excel_filename = '../test_7_2.xlsx'
+excel_filename = '../course_work_12/test_7_2.xlsx'
 df.to_excel(excel_filename, index=False)
 print(f"Данные сохранены в файле {excel_filename}")

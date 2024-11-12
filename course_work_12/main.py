@@ -6,7 +6,7 @@ import pandas as pd
 import seaborn as sns
 from scipy.optimize import minimize
 
-folder_path = './АВТ'
+folder_path = '../АВТ'
 col_index_plan = 6
 col_index_device = 9
 col_index_balanced = 11

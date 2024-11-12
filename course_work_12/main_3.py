@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import glob
 
 # Путь к папке с файлами Excel
-folder_path = './АВТ/'
+folder_path = '../АВТ/'
 
 # Поиск всех файлов Excel в указанной папке
 excel_files = glob.glob(folder_path + "*.xls")
